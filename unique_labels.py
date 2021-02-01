@@ -1,3 +1,11 @@
+"""
+Changes to make
+(): Add information about how to get client_id & client_secret
+(): Remove my personal client keys
+(): Update formatting for print statement at the end
+(): Define some functions
+"""
+
 import tekore as tk
 
 #print("Enter your client ID")
